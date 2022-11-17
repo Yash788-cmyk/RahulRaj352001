@@ -1,5 +1,5 @@
 [![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://geekersbrain.com/)<!-- If you want the template for my gif, email me! -->
-![Geekers Brain](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgeekersbrain.com%2F&psig=AOvVaw2ryNbJBacrDsv1fcvH1a0c&ust=1668781420004000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPC_pq-1tfsCFQAAAAAdAAAAABAE)
+![Geekers Brain](https://github.com/RahulRaj352001/RahulRaj352001/blob/master/geeker brain img.jpeg)
 ### Geekers Brain 
 leading Web and Mobile App Development Company. We provide innovative digital solutions to businesses across the world.
 
