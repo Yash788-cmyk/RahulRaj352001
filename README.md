@@ -1,5 +1,5 @@
 
-[![](https://github.com/RahulRaj352001/RahulRaj352001/blob/master/GBBanner.jpeg)](https://geekersbrain.com/)
+[![](https://github.com/RahulRaj352001/RahulRaj352001/blob/master/GBBanner.png)](https://geekersbrain.com/)
 ### Geekers Brain 
 leading Web and Mobile App Development Company. We provide innovative digital solutions to businesses across the world.
 
